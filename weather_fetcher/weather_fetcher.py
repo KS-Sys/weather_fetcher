@@ -31,5 +31,6 @@ if (response.status_code == 200):
     print(f"Wind Speed: {wind} meters/sec")
     print("----------------------------")
 
+# if the response is not successful, print an error message
 else:
     print(f"Failed to fetch weather data. Status code: {response.status_code}")
