@@ -1,0 +1,5 @@
+Location: uxbridge
+Condition: clear sky
+Temperature: 0.26 C
+Wind Speed: 1.34 meters/sec
+----------------------------
